@@ -1,0 +1,4 @@
+theme: jekyll-theme-minimal
+pages: write
+id-token: write
+actions: read
